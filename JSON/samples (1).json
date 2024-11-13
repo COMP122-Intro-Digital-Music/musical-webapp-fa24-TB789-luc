@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tap dripping",
+    "file": "samples/Tapdripping.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Crowd Talking",
+    "file": "samples/CrowdTalkingoutside.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Keyboard Typing",
+    "file": "samples/KeyboardTyping.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
